@@ -17,7 +17,8 @@ I'm a Computer Science and Engineering student at **Chaitanya Bharathi Institute
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **Frontend & Backend**
@@ -29,6 +30,12 @@ I'm a Computer Science and Engineering student at **Chaitanya Bharathi Institute
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
+
+- Generative AI, Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain, Hugging Face, FAISS
+- Embeddings, Semantic Search, Vector Databases
+- YOLOv8, Computer Vision, Deep Learning
 
 **Databases & Developer Tools**
 <p>
@@ -88,22 +95,8 @@ B.Tech in Computer Science and Engineering
 ### 🏆 Achievements
 
 - 🧩 Solved **300+ coding problems** across LeetCode, GeeksforGeeks, and other platforms.
-- 🎯 Scored **98 percentile in JEE Main 2023**.
 - 📜 Completed **NPTEL Java certification** with 80%.
 - 🌟 Selected as a **GirlScript Summer of Code '25 Contributor**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarakram-123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tarakram-123&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarakram-123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -124,18 +117,3 @@ B.Tech in Computer Science and Engineering
 ---
 
 ⭐ *"Building intelligent solutions, one project at a time."*
-
-<!--
-**tarakram-123/tarakram-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
