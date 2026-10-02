@@ -17,7 +17,7 @@ I'm a Computer Science and Engineering student at **Chaitanya Bharathi Institute
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
 </p>
 
 **Frontend & Backend**
@@ -29,12 +29,6 @@ I'm a Computer Science and Engineering student at **Chaitanya Bharathi Institute
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
-
-- Generative AI, Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain, Hugging Face, FAISS
-- Embeddings, Semantic Search, Vector Databases
-- YOLOv8, Computer Vision, Deep Learning
 
 **Databases & Developer Tools**
 <p>
@@ -103,12 +97,12 @@ B.Tech in Computer Science and Engineering
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarakram-123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tarakram-123&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarakram-123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
